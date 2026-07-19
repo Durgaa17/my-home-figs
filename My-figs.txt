@@ -45,4 +45,4 @@ vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafai
 vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F47.236.177.236%3A1080&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#PROXY-2%20%F0%9F%87%B2%F0%9F%87%BE
 
 # Server 15: PROXY-3 🇲🇾
-vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@mf.tunneling.qzz.io:443?path=%2Fmediafairy%2F8.219.97.248%3A80&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#PROXY-3%20%F0%9F%87%B2%F0%9F%87%BE
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F8.219.97.248%3A80&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#PROXY-3%20%F0%9F%87%B2%F0%9F%87%BE
