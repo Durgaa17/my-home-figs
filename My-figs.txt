@@ -1,1 +1,48 @@
+# ============================================
+# MALAYSIA VLESS CONFIGS
+# ============================================
+
+# Server 1: TM-TECH-PJ-1 🇲🇾
 vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F1.9.162.29%3A10280&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#TM-TECH-PJ-1%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 2: TM-TECH-PJ-2 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F1.9.162.73%3A10280&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#TM-TECH-PJ-2%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 3: TM-TECH-PJ-3 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F1.9.162.84%3A10280&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#TM-TECH-PJ-3%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 4: LIGHT NODE LIMITED 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F38.60.193.247-13300&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#LIGHT%20NODE%20LIMITED%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 5: TMNET 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F58.27.117.24-443&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#TMNET%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 6: GIGABIT-KL 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F102.211.234.247%3A46888&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#GIGABIT-KL%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 7: ORACLE-JB 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F149.118.156.142%3A443&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#ORACLE-JB%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 8: ALIBABA-KL 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F47.250.211.157%3A23090&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#ALIBABA-KL%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 9: GBNETWORK-Cjaya-1 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F103.198.26.229%3A333&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#GBNETWORK-Cjaya-1%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 10: GBNETWORK-Cjaya-2 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F103.186.117.97%3A333&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#GBNETWORK-Cjaya-2%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 11: EVOXT-KL 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F45.195.69.44%3A8443&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#EVOXT-KL%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 12: MICROSOFT-KL 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F85.211.240.232%3A55279&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#MICROSOFT-KL%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 13: PROXY-1 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F47.254.235.222%3A909&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#PROXY-1%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 14: PROXY-2 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F47.236.177.236%3A1080&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#PROXY-2%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 15: PROXY-3 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@mf.tunneling.qzz.io:443?path=%2Fmediafairy%2F8.219.97.248%3A80&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#PROXY-3%20%F0%9F%87%B2%F0%9F%87%BE
