@@ -1,0 +1,48 @@
+# ============================================
+# MISC VLESS CONFIGS
+# ============================================
+
+# Server 1: oracle CF 🇸🇬
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F213.35.113.150%3A6969&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#oracle%20CF%20%F0%9F%87%B8%F0%9F%87%AC
+
+# Server 2: ELITE-XY CF 🇸🇬
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F47.250.115.134%3A1080&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#ELITE-XY%20CF%20%F0%9F%87%B8%F0%9F%87%AC
+
+# Server 3: ELITE-2 CF 🇸🇬
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F178.128.106.142%3A1080&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#ELITE-2%20CF%20%F0%9F%87%B8%F0%9F%87%AC
+
+# Server 4: ELITE-3 CF 🇸🇬
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F47.79.253.110%3A3080&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#ELITE-3%20CF%20%F0%9F%87%B8%F0%9F%87%AC
+
+# Server 5: Streamyx E80 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F219.93.101.60%3A80&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#Streamyx%20E80%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 6: Streamyx E80-2 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F219.93.101.62%3A80&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#Streamyx%20E80-2%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 7: TM 80 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F175.139.233.79%3A80&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#TM%2080%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 8: AKAMAI D80 🇸🇬
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F143.42.66.91%3A80&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#AKAMAI%20D80%20%F0%9F%87%B8%F0%9F%87%AC
+
+# Server 9: AKAMAI 80-2 🇸🇬
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F172.237.73.24%3A80&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#AKAMAI%2080-2%20%F0%9F%87%B8%F0%9F%87%AC
+
+# Server 10: Alibaba Cloud S5 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F47.250.115.134%3A1080&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#Alibaba%20Cloud%20S5%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 11: DO S5 🇸🇬
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F178.128.106.142%3A1080&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#DO%20S5%20%F0%9F%87%B8%F0%9F%87%AC
+
+# Server 12: Alibaba S5 🇸🇬
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F47.79.253.110%3A3080&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#Alibaba%20S5%20%F0%9F%87%B8%F0%9F%87%AC
+
+# Server 13: GOOGLE S4 🇸🇬
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F34.124.190.108%3A8080&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#GOOGLE%20S4%20%F0%9F%87%B8%F0%9F%87%AC
+
+# Server 14: DO S4 🇸🇬
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F134.209.98.206%3A1080&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#DO%20S4%20%F0%9F%87%B8%F0%9F%87%AC
+
+# Server 15: Aceville S4 🇸🇬
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F43.160.255.142%3A7890&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#Aceville%20S4%20%F0%9F%87%B8%F0%9F%87%AC
