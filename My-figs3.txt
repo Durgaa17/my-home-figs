@@ -1,0 +1,30 @@
+# ============================================
+# MY FAVOURITE VLESS CONFIGS
+# ============================================
+
+# Server 1: MICROSOFT-KL 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F85.211.240.232%3A55279&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#MICROSOFT-KL%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 2: EVOXT-KL 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F45.195.69.44%3A8443&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#EVOXT-KL%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 3: GBNETWORK-Cjaya-2 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F103.186.117.97%3A333&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#GBNETWORK-Cjaya-2%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 4: GBNETWORK-Cjaya-1 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F103.198.26.229%3A333&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#GBNETWORK-Cjaya-1%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 5: ALIBABA-KL 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F47.250.211.157%3A23090&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#ALIBABA-KL%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 6: GIGABIT-KL 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F102.211.234.247%3A46888&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#GIGABIT-KL%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 7: TMNET 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F58.27.117.24-443&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#TMNET%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 8: ORACLE-JB 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F149.118.156.142%3A443&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#ORACLE-JB%20%F0%9F%87%B2%F0%9F%87%BE
+
+# Server 9: 16 COLLYER QUAY 🇸🇬
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@172.66.169.187:443?path=%2Fmediafairy%2F124.156.202.172-443&security=tls&encryption=none&host=mf.tunneling.qzz.io&type=ws&sni=mf.tunneling.qzz.io#16%20COLLYER%20QUAY%20%F0%9F%87%B8%F0%9F%87%AC
