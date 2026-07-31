@@ -1,0 +1,15 @@
+# MY 0 BASIC & UNSUB VLESS CONFIGS
+
+# Server 1
+vless://e4aac2d9-812c-48a8-81db-4299ae0d527f@124.217.247.195:443?path=%2Fvless&security=tls&encryption=none&host=opensignal.com.udemy.com&type=ws&sni=opensignal.com.udemy.com#master
+
+# Server 2
+vless://97405723-a4fe-4c85-ac4a-e932498ec4cb@162.159.133.61:80?path=%2F&security=&encryption=none&host=kal.pakya.online&type=ws#adzz
+
+# Server 3
+vless://97405723-a4fe-4c85-ac4a-e932498ec4cb@kal.pakya.online:443?path=%2Fvlessws-tls&security=tls&encryption=none&host=inone.opensignal.com&type=ws&sni=inone.opensignal.com#adzz
+
+# Server 4
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@162.159.133.61:443?path=%2Fmediafairy%2F164.52.2.99%3A443&security=tls&encryption=none&host=free.tunneling.dpdns.org&type=ws&sni=free.tunneling.dpdns.org#CLEAN%20SG%20%F0%9F%87%B8%F0%9F%87%AC
+
+# Server 5
