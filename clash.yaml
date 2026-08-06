@@ -1,0 +1,29 @@
+# ========== PROXIES ==========
+proxies:
+  - name: RND1-(Digi Exp) msia content
+    server: 104.18.21.212
+    port: 80
+    type: vless
+    uuid: 999e32d3-4e7f-432c-95db-5a9adf74fda3
+    tls: false
+    servername: 104.18.21.212
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: rnd1.dvhfree.net
+    udp: true
+    skip-cert-verify: true
+
+# ========== PROXY GROUPS ==========
+proxy-groups:
+  - name: PROXY
+    type: select
+    proxies:
+      - RND1-(Digi Exp) msia content
+      - DIRECT
+
+# ========== RULES ==========
+rules:
+  - GEOIP,CN,DIRECT
+  - MATCH,PROXY
