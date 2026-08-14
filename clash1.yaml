@@ -1,5 +1,5 @@
 proxies:
-  - name: [VLESS-TLS] VIP
+  - name: Server VIP
     server: 104.18.20.212
     port: 443
     type: vless
