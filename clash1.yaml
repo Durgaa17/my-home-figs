@@ -1,15 +1,29 @@
+# ========== PROXIES ==========
 proxies:
-  - name: Server VIP
-    server: 104.18.20.212
-    port: 443
+  - name: RND1-(Digi Exp) msia content
+    server: 104.18.21.212
+    port: 80
     type: vless
-    udp: true
-    skip-cert-verify: true
-    uuid: a1dd88e7-98ae-418f-8794-71000e16f71a
-    tls: true
-    servername: sixseven.biz.id
+    uuid: 999e32d3-4e7f-432c-95db-5a9adf74fda3
+    tls: false
+    servername: 104.18.21.212
     network: ws
     ws-opts:
-      path: /vless
+      path: /
       headers:
-        Host: sixseven.biz.id
+        Host: rnd1.dvhfree.net
+    udp: true
+    skip-cert-verify: true
+
+# ========== PROXY GROUPS ==========
+proxy-groups:
+  - name: PROXY
+    type: select
+    proxies:
+      - RND1-(Digi Exp) msia content
+      - DIRECT
+
+# ========== RULES ==========
+rules:
+  - GEOIP,CN,DIRECT
+  - MATCH,PROXY
