@@ -2,8 +2,8 @@
 # PUBLIC VLESS CONFIGS
 # ============================================
 
-# Server 1: [VLESS-TLS] VIP1
-vless://a1dd88e7-98ae-418f-8794-71000e16f71a@104.18.20.212:443?path=%2Fvless&security=tls&encryption=none&host=gcp.hothotplus.my.id&type=ws&sni=gcp.hothotplus.my.id#%5BVLESS-TLS%5D%20VIP1
+# Server 1: EVOXT-KL 🇲🇾
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@104.18.21.212:443?path=%2Fmediafairy%2F45.195.69.44%3A8443&security=tls&encryption=none&host=free.tunneling.dpdns.org&type=ws&sni=free.tunneling.dpdns.org#EVOXT-KL%20%F0%9F%87%B2%F0%9F%87%BE
 
 # Server 2: SG Multi 🇸🇬
 vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@104.18.21.212:443?path=%2Fmediafairy%2Fproxyip.SG.cmliussss.net%3A443&security=tls&encryption=none&host=free.tunneling.dpdns.org&fp=random&type=ws&sni=free.tunneling.dpdns.org#SG%20Multi
@@ -11,5 +11,5 @@ vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@104.18.21.212:443?path=%2Fmediafair
 # Server 3: [VLESS-TLS] VIP
 vless://a1dd88e7-98ae-418f-8794-71000e16f71a@104.18.20.212:443?path=%2Fvless&security=tls&encryption=none&host=sixseven.biz.id&type=ws&sni=sixseven.biz.id#%5BVLESS-TLS%5D%20VIP
 
-# Server 4: EVOXT-KL 🇲🇾
-vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@104.18.21.212:443?path=%2Fmediafairy%2F45.195.69.44%3A8443&security=tls&encryption=none&host=free.tunneling.dpdns.org&type=ws&sni=free.tunneling.dpdns.org#EVOXT-KL%20%F0%9F%87%B2%F0%9F%87%BE
+# Server 4: [VLESS-TLS] VIP1
+vless://a1dd88e7-98ae-418f-8794-71000e16f71a@104.18.20.212:443?path=%2Fvless&security=tls&encryption=none&host=gcp.hothotplus.my.id&type=ws&sni=gcp.hothotplus.my.id#%5BVLESS-TLS%5D%20VIP1
